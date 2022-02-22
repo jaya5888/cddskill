@@ -1,0 +1,20 @@
+https://study-site.anreddy.in/cse/cdd/install-jenkins-on-windows-10/
+
+
+https://www.jenkins.io/doc/book/installing/windows/
+
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Administrative Tools
+
+http://localhost:8080
+https://www.oracle.com/java/technologies/downloads/#java8-windows
+
+https://www.jenkins.io/download/thank-you-downloading-windows-installer-stable/
+
+https://www.oracle.com/java/technologies/downloads/#jdk17-windows
+kpsr2613_KVD
+
+http://localhost:8080/login?from=%2F
+
+jenkins 
+jayaprasad
+Biswal@20
